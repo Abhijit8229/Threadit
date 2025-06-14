@@ -1,7 +1,3 @@
-Here’s a professional and contributor-friendly **project description** with **local setup instructions** for your `Threadit` repo, considering the folder structure and tools you're using:
-
----
-
 ## Threadit
 
 **Threadit** is a modern clone of X (formerly Twitter), built with performance and developer experience in mind. It includes a clean frontend powered by **Bun + Vite + TypeScript**, and a scalable backend using **Bun + Express + MongoDB**.
